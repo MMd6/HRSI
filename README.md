@@ -6,7 +6,7 @@ Help me fixing readme.md
 
 Heroku oneclick / Rapid deploy method available
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/developeranaz/HEROKU-RCLONE-SERVE-INDEX)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/MMd6/HEROKU.RCLONE.SERVE.INDEX)
 
 ###### Star my Repository & Support me
 
